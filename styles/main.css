@@ -1,1 +1,41 @@
 /* Put any custom CSS rules here */
+
+h1 {
+	color: #4a4a4a;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+.subhead {
+	font-size: 18px;
+	color: #666;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.chart {
+	margin: 0 auto;
+	max-width: 600px;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+h3 {
+	color: #4a4a4a;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+.chart-wrapper {
+	position: relative;
+	overflow: hidden;
+}
+
+.chart-wrapper iframe {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+}
