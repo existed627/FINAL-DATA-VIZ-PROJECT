@@ -31,6 +31,8 @@ h3 {
 	color: #4a4a4a;
 	font-family: Helvetica;
 	text-align: center;
+	margin: 0 auto;
+	max-width: 600px;
 }
 
 .chart-wrapper {
